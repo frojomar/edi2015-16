@@ -1,0 +1,7 @@
+01#Grado en Ingenieria Informática en Ingeniería del Software#45
+02#Grado en Ingenieria Informática en Ingeniería del Computadores#45
+03#Grado en Ingenieria de Sonido e Imagen en Telecomunicacion#30
+04#Grado en Ingenieria Civil Construcciones Civiles#35
+05#Grado en Ingenieria Civil Hidrologia#25
+06#Grado en Ingenieria Civil Transportes y Servicios Urbanos#20
+07#Grado en Edificación#15
